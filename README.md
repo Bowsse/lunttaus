@@ -1,7 +1,7 @@
 # lunttaus
 
 
-| Juu | Joo ||
-|:----:|:----:||
-| ASD |ASD ||
-|ASD |ASD ||
+| Juu | Joo |
+|:----:|:----:|
+| ASD |ASD |
+|ASD |ASD |
